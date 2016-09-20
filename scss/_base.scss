@@ -224,6 +224,7 @@ figure {
 	font-family: 'Raleway', sans-serif;
 	font-size: 150%;
 	font-weight: 100;
+	min-height: 800px;
 }
 #slide5:before {
 	background-image:url("../img/icon/surf-wait.jpeg");
@@ -237,6 +238,7 @@ figure {
 	font-size: 150%;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 100;
+	min-height: 800px;
 }
 
 #slide7:before {
@@ -250,6 +252,7 @@ figure {
 		background: rgba(255, 255, 255, 0.9);
 		background-attachment: fixed;
 		font-family: 'Raleway', sans-serif;
+		min-height: 800px;
 }
 
 
@@ -259,14 +262,14 @@ figure {
 	height: 300px;
 	float: left;
 	/*background-image:url("../img/icon/surfer-walk.jpeg"); */
-	margin-left: 70px;
-	margin-top: -150px;
+	margin-left: 22px;
+	margin-top: -232px;
 	color: #000000;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 150%;
 	font-weight: 100;
-	position: relative;
+	position: absolute;
 
 }
 .box2 {
@@ -274,16 +277,16 @@ figure {
 	height: 300px;
 	float: left;
 	/*background-image:url("../img/icon/matt-wave2.jpg"); */
-	margin-top: -150px;
+	margin-top: -232px;
 	margin-right: 20px;
 	margin-bottom: 50px;
-	margin-left: 30px;
+	margin-left: 365px;
 	color: #000000;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 150%;
 	font-weight: 100;
-	position: relative;
+	position: absolute;
 }
 
 .box3 {
@@ -292,16 +295,16 @@ figure {
 	float: left;
 	/*background-image:url("../img/icon/sara-yoga.jpg"); */
 
-	margin-top: -150px;
+	margin-top: -233px;
 	margin-right: 20px;
 	margin-bottom: 50px;
-	margin-left: 10px;
+	margin-left: 708px;
 	color: #000000;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 150%;
 	font-weight: 100;
-	position: relative;
+	position:absolute;
 }
 
 .box1-yoga {
@@ -309,7 +312,7 @@ figure {
 	height: 150px;
 	float: left;
 	border: solid;
-	margin-top: 40px;
+	margin-top: 330px;
 	margin-left: 100px;
 	color: #000000;
 	text-align: center;
@@ -317,6 +320,7 @@ figure {
 	font-size: 120%;
 	font-weight: 100;
 	padding-top: 50px;
+	position: absolute;
 
 }
 .box2-yoga {
@@ -324,16 +328,17 @@ figure {
 	height: 150px;
 	float: left;
 	border: solid;
-	margin-top: 40px;
+	margin-top: 330px;
 	margin-right: 20px;
 	margin-bottom: 50px;
-	margin-left: 80px;
+	margin-left: 408px;
 	color: #000000;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 120%;
 	font-weight: 100;
 	padding-top: 40px;
+	position: absolute;
 }
 
 .box3-yoga {
@@ -341,16 +346,17 @@ figure {
 	height: 150px;
 	float: left;
 	border: solid;
-	margin-top: 40px;
+	margin-top: 330px;
 	margin-right: 20px;
 	margin-bottom: 50px;
-	margin-left: 60px;
+	margin-left: 718px;
 	color: #000000;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 120%;
 	font-weight: 100;
 	padding-top: 40px;
+	position: absolute;
 }
 
 .box1-surf {
@@ -366,6 +372,7 @@ figure {
 	font-size: 120%;
 	font-weight: 100;
 	padding-top: 40px;
+	position: absolute;
 
 }
 .box2-surf {
@@ -376,13 +383,14 @@ figure {
 	margin-top: 40px;
 	margin-right: 20px;
 	margin-bottom: 50px;
-	margin-left: 80px;
+	margin-left: 408px;
 	color: #000000;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 120%;
 	font-weight: 100;
 	padding-top: 40px;
+	position: absolute;
 }
 
 .box3-surf {
@@ -393,16 +401,19 @@ figure {
 	margin-top: 40px;
 	margin-right: 20px;
 	margin-bottom: 50px;
-	margin-left: 60px;
+	margin-left: 718px;
 	color: #000000;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 120%;
 	font-weight: 100;
 	padding-top: 40px;
+	position: absolute;
 }
 
+#yoga-text {
 
+}
 
 .box1-collage {
 	width: 300px;
